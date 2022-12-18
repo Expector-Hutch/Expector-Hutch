@@ -7,10 +7,15 @@ I'm a Chinese middle school student and I'm busy with my schoolwork. <br>
 ### <a href="https://Expector-Hutch.github.io/">My Website</a>
 ## 我的开发工具 My developing apps
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br>
+![](https://img.shields.io/badge/Nim-yellow?style=for-the-badge&logo=nim&logoColor=white) 
+![](https://img.shields.io/badge/C-red?style=for-the-badge&logo=c&logoColor=white) 
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/sublime-black?style=for-the-badge&logo=sublime%20text&logoColor=white)
 ![](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue) 
 ![](https://img.shields.io/badge/html5-f5580a?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css3-red?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ## 我正在学习 I'm learning
 * Nim
 * matplotlib  
