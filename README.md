@@ -1,8 +1,6 @@
 ## 关于我自己 About me
 中学生。  <br>
-I'm a Chinese middle school student and I'm busy with my schoolwork. <br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Expector-Hutch&layout=compact&theme=nightowl)  
-![](https://github-readme-stats.vercel.app/api?username=Expector-Hutch&theme=nightowl&show_icons=true&count_private=true)
+I'm a Chinese middle school student. <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Expector-Hutch&theme=nightowl) <br>
 ### <a href="https://expector.netlify.app/">My Website</a>
 My codes on [bitbucket](https://bitbucket.org/expector/)
