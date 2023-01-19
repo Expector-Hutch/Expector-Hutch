@@ -1,6 +1,3 @@
-## 关于我自己 About me
-中学生。  <br>
-I'm a Chinese middle school student. <br>
 ### <a href="https://expector.netlify.app/">My Website</a>
 My codes on [bitbucket](https://bitbucket.org/expector/)
 ## 我的开发工具 My developing apps
