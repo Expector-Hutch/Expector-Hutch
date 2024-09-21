@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    66.1k added, 25.1k removed
+                                    59.7k added, 23.3k removed
                                 </div>
                             </section>
                             <section>
@@ -1929,7 +1929,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.73m out of 144m users</span>
+                                    <span class="gh">ranked 2.73m out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -2174,7 +2174,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.12m out of 144m users</span>
+                                    <span class="gh">ranked 2.12m out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2215,7 +2215,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.20m out of 221m repositories</span>
+                                    <span class="gh">ranked 2.20m out of 222m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -2302,7 +2302,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.38m out of 221m repositories</span>
+                                    <span class="gh">ranked 5.38m out of 222m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2514,7 +2514,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">45828373</span>
-                            <span class="code">src/assets/window-buttons/close.svg</span>
+                            <span class="code">src/assets/window-buttons/maxisize.svg</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -2525,14 +2525,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg class="icon" style="width: 1em; height: 1em; vertical-align: middle; fill: currentcolor; overflow: hidden; --darkreader-inline-fill: currentcolor;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2099" data-darkreader-inline-fill=""&gt;&lt;path d="M565.29 511.59l363.88-363.88c18.75-18.75 18.75-49.14 0-67.88-18.75-18.75-49.14-18.75-67.88 0L497.41 443.71 133.53 79.83c-18.75-18.75-49.14-18.75-67.88 0-18.75 18.74-18.75 49.14 0 67.88l363.88 363.88L65.64 875.47c-18.74 18.75-18.74 49.14 0 67.88 9.37 9.37 21.66 14.06 33.94 14.06s24.57-4.69 33.94-14.06L497.4 579.47l363.88 363.88c9.37 9.37 21.66 14.06 33.94 14.06s24.57-4.69 33.94-14.06c18.75-18.75 18.75-49.14 0-67.88L565.29 511.59z" fill="#f9605f" p-id="2100"&gt;&lt;/path&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg class="icon" style="width: 1em; height: 1em; vertical-align: middle; fill: currentcolor; overflow: hidden; --darkreader-inline-fill: currentcolor;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="6620" data-darkreader-inline-fill=""&gt;&lt;path d="M900 64H360c-33.137 0-60 26.863-60 60v146H124c-33.137 0-60 26.863-60 60v570c0 33.137 26.863 60 60 60h570c33.137 0 60-26.863 60-60V724h146c33.137 0 60-26.863 60-60V124c0-33.137-26.863-60-60-60zM664 634v176c0 33.137-26.863 60-60 60H214c-33.137 0-60-26.863-60-60V420c0-33.137 26.863-60 60-60h390c33.137 0 60 26.863 60 60v214z m206-60c0 33.137-26.863 60-60 60h-56V330c0-33.137-26.863-60-60-60H390v-56c0-33.137 26.863-60 60-60h360c33.137 0 60 26.863 60 60v360z" fill="#4bb8f3" p-id="6621"&gt;&lt;/path&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2024, 13:18:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2024, 14:25:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
