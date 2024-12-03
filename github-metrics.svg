@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    45.8k added, 18.6k removed
+                                    45.7k added, 20.4k removed
                                 </div>
                             </section>
                             <section>
@@ -344,7 +344,7 @@
                     <rect mask="url(#languages-bar)" x="200.16011499167584" y="0" width="101.06488599388045" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="301.22500098555633" y="0" width="77.54059733808826" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="378.7655983236446" y="0" width="21.600664719813928" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="400.3662630434585" y="0" width="21.27145859298951" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="400.3662630434585" y="0" width="21.27145859298951" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="421.6377216364481" y="0" width="16.574691520880148" height="8" fill="#DA5B0B"/>
                     <rect mask="url(#languages-bar)" x="438.21241315732817" y="0" width="11.321342903843062" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="449.53375606117123" y="0" width="10.466243938828795" height="8" fill="#dea584"/>
@@ -376,7 +376,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asfuon/shiki-zh-docs</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Chinese translation for the Shikijs docs</div>
@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hackertalk/hackertalk-model</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2272,7 +2272,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.10m out of 191m repositories</span>
+                                    <span class="gh">ranked 2.10m out of 196m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
@@ -2321,7 +2321,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 191m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 196m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2514,7 +2514,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 20:42:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 21:31:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
